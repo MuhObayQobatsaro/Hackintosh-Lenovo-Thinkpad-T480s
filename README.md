@@ -1,11 +1,7 @@
 # Hackintosh Lenovo Thinkpad T480s using Opencore
 
-<img align="right" src="/img/t480s-ventura.png" alt="macOS Ventura running on the T480s" width="425">
+<img align="center" src="/img/t480s-ventura.png" alt="macOS Ventura running on the T480s" width="425">
 
-[![macOS](https://img.shields.io/badge/macOS-Monterey-brightgreen.svg)](https://developer.apple.com/documentation/macos-release-notes)
-[![macOS](https://img.shields.io/badge/macOS-Mammoth-brightgreen.svg)](https://developer.apple.com/documentation/macos-release-notes)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.8.0-blue)](https://github.com/acidanthera/OpenCorePkg)
-[![License](https://img.shields.io/badge/license-MIT-purple)](/LICENSE)
 
 
 &nbsp;
@@ -14,9 +10,9 @@
 
 | Category  | Component                                  |
 | --------- | ------------------------------------------ |
-| CPU       | Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz   |
+| CPU       | Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz   |
 | GPU       | Intel UHD Graphics 620                     |
-| SSD       | 1TB M.2 NVMe SSD          |
+| SSD       | T-FORCE Z4 M.2 2280 Gen4 PCIe NVMe SSD     |
 | Memory    | 24GB DDR4 2400Mhz                          |
 | Camera    | 720p Camera                                |
 | WiFi & BT | Intel Dual Band Wireless AC 8265           |
@@ -28,7 +24,7 @@
 
 | Software  | Version                                                       |
 | --------- | --------------------------------------------------------------|
-| [MacOS](https://www.apple.com/macos/)                            | 13.0.1   |
+| [MacOS](https://www.apple.com/macos/)                            | 15.0   |
 | [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases)  | 0.8.3  |
 
 &nbsp;
