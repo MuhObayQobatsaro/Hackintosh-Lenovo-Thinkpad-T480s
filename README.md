@@ -35,7 +35,7 @@
 <summary><strong>✅ What's working</strong></summary>
 </br>
  
-- [X] Intel WiFi & Bluetooth (thanks to [itlwn](https://github.com/OpenIntelWireless/itlwm))
+- [X] Intel WiFi & Bluetooth (thanks to [itlwn](https://github.com/OpenIntelWireless/itlwm)) with HeliPort.app
 - [X] Brightness
 - [X] Volume Control
 - [X] Battery Information
