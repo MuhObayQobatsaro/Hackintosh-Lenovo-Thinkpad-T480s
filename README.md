@@ -79,11 +79,6 @@
 
 &nbsp;
 
-## ⭐️ Feedback
-Did you find any bugs or just have some questions? Feel free to provide your feedback using the Discussions tab.
-
-&nbsp;
-
 ## 📜 License
 
 This repo is licensed under the [MIT License]().
