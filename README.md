@@ -1,6 +1,6 @@
 # Hackintosh Lenovo Thinkpad T480s using Opencore
 
-<img align="center" src="/img/t480s-Sequoia.png" alt="macOS Sequoia running on the T480s" width="425">
+<img align="center" src="/img/t480s-Sequoia.jpg" alt="macOS Sequoia running on the T480s" width="425">
 
 
 
