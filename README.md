@@ -86,4 +86,4 @@ This repo is licensed under the [MIT License]().
 OpenCore is licensed under the [BSD 3-Clause License](https://github.com/acidanthera/OpenCorePkg/blob/master/LICENSE.txt).
 
 ---
-```Copyright (c) 2025 Moq```
+```©2025 Moq```
