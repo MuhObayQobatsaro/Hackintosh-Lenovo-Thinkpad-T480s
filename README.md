@@ -40,20 +40,21 @@
 </br>
  
 - [X] Intel WiFi & Bluetooth (thanks to [itlwn](https://github.com/OpenIntelWireless/itlwm))
-- [X] Brightness / Volume Control
+- [X] Brightness
+- [X] Volume Control
 - [X] Battery Information
 - [X] Audio (Audio Jack & Speaker)
-- [X] USB Ports & Built-in Camera
-- [X] Graphics Acceleration
-- [X] Trackpoint / Touchpad
-- [X] Power management / Sleep
-- [X] FaceTime / iMessage (iServices)
+- [X] All USB Ports
+- [X] Built-in Camera
+- [X] Graphics Acceleration (Intel UHD 620)
+- [X] Touchpad
+- [X] Trackpoint
+- [X] Power management and Sleep
+- [X] FaceTime, iMessage (iServices)
 - [X] HDMI
-- [X] Automatic OS updates
-- [X] Handoff / Universal Clipboard
-- [X] SIP / FireVault 2
 - [X] USB-C
 - [X] Thunderbolt 3
+- [X] Dualboot with Windows 11
 
 
 </details>
@@ -65,6 +66,7 @@
 - [ ] Safari DRM ```Use Chromium powered Browser or Firefox to watch Amazon Prime Video, Netflix, Disney+ and others```
 - [ ] AirDrop & Continuity
 - [ ] Fingerprint Reader (Disabled with NoTouchID kext)
+- [ ] WWAN
 
 </details>
 
@@ -74,8 +76,6 @@
 
 - [ ] Sidecar Wireless
 - [ ] Apple Watch Unlock
-- [ ] WWAN
-- [ ] Dualbooting Windows / Linux (with OpenCore)
 - [ ] Sidecar (Cable) / AirPlay to Mac
 
 
